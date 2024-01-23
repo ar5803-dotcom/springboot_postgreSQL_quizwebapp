@@ -1,4 +1,4 @@
-# springboot_postgreSQL_samplewebapp
+# springboot_postgreSQL_quizwebapp
 
 (Ongoing)
 
